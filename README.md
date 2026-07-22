@@ -39,7 +39,8 @@ Student-Management-System/
 │
 ├── student_management.py
 ├── README.md
-└── students.csvStudent Information
+└── students.csv
+Student Information
 The system manages the following details:
 Student ID
 Student Name
